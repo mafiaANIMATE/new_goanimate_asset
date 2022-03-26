@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme id="import" name="Imported Assets" cc_theme_id="import"><?xml version="1.0" encoding="utf-8"?>
+<theme id="import" name="Imported Assets" cc_theme_id="import">
+<!--Sorry that there's no indenting, I couldn't get the import script to keep that.-->
+<!--Also, be sure to leave a blank line before <theme>, otherwise the import script breaks.-->
+<char id="327068788" name="the benson apparition" cc_theme_id="family" thumbnail_url="char-default.png" copyable="Y">
+<tags>family,every,copy,of,wrapper,offline,is,_free,software,but,is,also,_cat:personalized</tags>
+</char>
+<sound id="ColBreakz - 5000.mp3" name="Wecome" subtype="bgmusic" duration="260154" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="ColBreakz - Connected.mp3" name="Goodbye" subtype="soundeffect" duration="99422" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Desktop 7-30-2020 3-46-32 PM-653.png" name="Pic" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Alarm sound effects - modern alarm 1 (192  kbps)2.mp3" name="Alarm" subtype="soundeffect" duration="120032" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Kevin MacLeod _ The House of Leaves (192  kbps).mp3" name="Hunted" subtype="bgmusic" duration="206524" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="bandicam 2020-10-04 15-04-59-287.mp3" name="Red Alert And Bomb FX" subtype="soundeffect" duration="41208" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="bandicam 2020-10-04 15-06-55-426.mp3" name="Hypersnow And Snow FX" subtype="soundeffect" duration="46488" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="HS.mp3" name="HyperSnow FX" subtype="soundeffect" duration="6608" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Alarm Evacuate Building SOUND EFFECT.mp3.mp3" name="Red Alert FX" subtype="soundeffect" duration="188945" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="costume11 (1).png" name="Spiffy Pasha.EXE" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="costume5.png" name="Spiffy Pasta Normal Frown" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="costume11.png" name="Spiffy Pasta mad talk" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="costume10.png" name="Spiffy Pasta Mad " holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="costume4 (2).png" name="Spiffy Pasha Talk Frown" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="costume1 (15).png" name="Spiffy Pasta Stand2" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Roar.mp3" name="Graaaaaaaaaaaaaaa" subtype="soundeffect" duration="10488" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="costume11 (2).png" name="Creepypasta Spiffy Pasta.EXE" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="costume14 (1).png" name="Super Charged Spiffy Pasta.EXE" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="1200px-Goanimate_logo_2013 (5).png" name="GoAnimate" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2020-10-10 20-11-57-469.jpg" name="Angeyyyyy" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2020-10-10 20-12-10-092.jpg" name="Rages" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Scary Sound (For 666 Punishment) (Download Link in Description).mp3" name="AAAHAAAAHHAAAHHH" subtype="soundeffect" duration="23066" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Scary Sound (For Scariest Punishments) (Download Link in Description).mp3" name="Jumpscared2" subtype="soundeffect" duration="61936" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="eruption crater punishment test (1).mp3" name="Jumpscared3" subtype="soundeffect" duration="147617" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="Scary Sound Effect #3.mp3" name="Jumpscared4" subtype="soundeffect" duration="59193" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="image0.png" name="Proof" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2020-02-23 21-16-28-173.png" name="Thumb1" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2020-03-16 23-00-52-811.png" name="Thumb2" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2020-03-16 22-59-38-999.png" name="Thumb3" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2020-03-16 23-25-04-900.png" name="Thumb4" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2020-04-05 15-05-01-247.png" name="Thumb5" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2020-03-18 03-32-51-092.png" name="Thumb7" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2020-02-29 16-14-30-618.png" name="Thumb56789" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2020-02-29 16-30-25-215.png" name="Thumb10" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2020-08-29 02-00-48-558.png" name="Thumb34543" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Desktop 4-6-2020 6-22-52 PM-293.png" name="2345432" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2020-03-18 04-04-43-557.png" name="Thumb232134" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2020-02-19 20-47-37-416.png" name="thumb5654565" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="bandicam 2020-11-11 00-10-49-170.mp3" name="Jumpscared666" subtype="soundeffect" duration="23424" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="bandicam 2020-11-11 00-30-01-722.mp3" name="Jumpscared999" subtype="soundeffect" duration="20160" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="bandicam 2020-11-11 00-29-31-174.mp3" name="Jumpscared.EXE" subtype="soundeffect" duration="20568" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2020-10-09 14-36-26-159.png" name="Thumb454334" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Desktop 7-30-2020 3-47-05 PM-894.png" name="Sence55" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Desktop 7-30-2020 3-46-32 PM-653.png" name="Image23" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Desktop 7-30-2020 3-49-57 PM-425.png" name="Image24" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Desktop 7-30-2020 3-48-37 PM-235.png" name="Image25" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2020-05-10 03-12-29-320.png" name="Image27" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2020-06-08 12-30-56-336 - Copy.png" name="Image28" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Desktop 6-29-2020 3-11-56 PM-361.png" name="Image30" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2020-02-29 16-21-20-237.png" name="Image32" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2020-02-19 20-53-03-496.png" name="Image56" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2020-11-12 21-03-54-254.jpg" name="Proof1" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2020-11-12 21-20-14-034.jpg" name="Proof2" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2020-11-12 21-20-20-880.jpg" name="Proof3" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2020-11-12 21-20-30-106.jpg" name="Proof4" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2020-11-12 21-22-02-326.jpg" name="Proof5" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2020-11-12 21-22-12-123.jpg" name="Proof7" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2020-11-12 21-02-39-028.jpg" name="Proof8" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bandicam 2020-11-12 21-42-28-958.jpg" name="Proof10" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Vyond_Logo.png" name="Vyond_Logo" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="m-4.png" name="m-4" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<sound id="GoAnimate - A Special Place.mp3" name="GoAnimate - A Special Place" subtype="soundeffect" duration="70176" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="beef-ravioli-can-13003.png" name="beef-ravioli-can-13003" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="titlehere.png" name="titlehere" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="14767-brown-egg-design.png" name="14767-brown-egg-design" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Untitled2.png" name="C:\Users\USER\Documents\Untitled2.png" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Untitled.png" name="C:\Users\USER\Documents\Untitled.png" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="ja452s.png" name="D:\ja452s.png" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="body.png" name="D:\body.png" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="lick.png" name="C:\Users\USER\Documents\lick.png" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="?????s.png" name="C:\Users\USER\Documents\?????s.png" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="squirt.png" name="C:\Users\USER\Documents\squirt.png" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="squirt.png" name="C:\Users\USER\Documents\squirt.png" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="pee.png" name="C:\Users\USER\Documents\pee.png" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="pee.png" name="C:\Users\USER\Documents\pee.png" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="?????6.png" name="C:\Users\USER\Documents\body_3.png" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="body_3.png" name="C:\Users\USER\Documents\body_3.png" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="body_4.png" name="C:\Users\USER\Documents\body_4.png" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Untitled4.png" name="C:\Users\USER\Documents\Untitled4.png" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Untitled5.png" name="C:\Users\USER\Documents\Untitled5.png" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Untitled8.png" name="C:\Users\USER\Documents\Untitled8.png" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Untitled11.png" name="C:\Users\USER\Documents\Untitled11.png" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Toby_Burrows.jpg" name="D:\Toby_Burrows.jpg" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="tokyo_room.jpg" name="D:\tokyo_room.jpg" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Ollie_PDP_4_CART_630x.png" name="D:\Ollie_PDP_4_CART_630x.png" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="51112840_185605882398639_1419884156191506432_n.png" name="C:\Users\USER\Downloads\51112840_185605882398639_1419884156191506432_n.png" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="flutter_express.png" name="C:\Users\USER\Downloads\flutter_express.png" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="51112840_185605882398639_1419884156191506432_n.png" name="C:\Users\USER\Downloads\51112840_185605882398639_1419884156191506432_n.png" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="JA452S_PIONEER.png" name="C:\Users\USER\Downloads\JA452S_PIONEER.png" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="bus_photo.jpg" name="D:\bus_photo.jpg" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="scania_k410_ib.png" name="D:\scania_k410_ib.png" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Scania-Malaysia_11.jpg" name="D:\Scania-Malaysia_11.jpg" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="TBS_info-16.jpg" name="D:\TBS_info-16.jpg" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="wallpaper-hantu-kuntilanak-2.png" name="D:\wallpaper-hantu-kuntilanak-2.png" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="JA452S_FRONT.png" name="n" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="JA452S_FRONT.png" name="C:\Users\USER\Downloads\JA452S_FRONT.png" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="vape.png" name="D:\vape.png" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="rokok-png-3-Transparent-Images.png" name="D:\rokok-png-3-Transparent-Images.png" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="rokok-png-3-Transparent-Images.png" name="D:\rokok-png-3-Transparent-Images.png" holdable="1" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="00087.png" name="C:\Users\USER\Desktop\00087.png" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="Flag_of_Ukraine_(pantone_colors).svg.png" name="D:\Flag_of_Ukraine_(pantone_colors).svg.png" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="ukraine.png" name="D:\ukraine.png" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="sks.png" name="D:\sks.png" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="118693315_3434126283310391_9207257219773816091_n.jpg" name="D:\118693315_3434126283310391_9207257219773816091_n.jpg" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="118693315_3434126283310391_9207257219773816091_n.jpg" name="D:\118693315_3434126283310391_9207257219773816091_n.jpg" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="series_bus_ja452s_nissan.png" name="C:\Users\USER\Downloads\series_bus_ja452s_nissan.png" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="2ebe.jpg" name="C:\Users\USER\Downloads\2ebe.jpg" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="gypsy-curse.regular.png" name="D:\gypsy-curse.regular.png" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<prop id="peee_dry.png" name="C:\Users\USER\Documents\peee_dry.png" holdable="0" wearable="0" placeable="1" facing="left" thumb="" aid="9004" enable="Y" is_premium="N" money="0" sharing="0" />
+<background id="75097498.png" name="D:\75097498.png" default="N" aid="9603" enable="Y" is_premium="N" money="0" sharing="0" />
+</theme>
+
+</theme>
